@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb06a4d5-d0dd-4a24-b282-26a10e39f36b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-yiliou-dependencies/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-yiliou-discovery/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-yiliou-discovery/src/main/java/com/yiliou/cloud/serviceregistry/DbAutoServiceRegistration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-yiliou-discovery/src/main/java/com/yiliou/cloud/serviceregistry/DbAutoServiceRegistrationAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-yiliou-discovery/src/main/java/com/yiliou/cloud/serviceregistry/DbDiscoveryProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-yiliou-discovery/src/main/java/com/yiliou/cloud/serviceregistry/DbRegistration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-yiliou-discovery/src/main/java/com/yiliou/cloud/serviceregistry/DbServiceRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-yiliou-discovery/src/main/java/com/yiliou/cloud/serviceregistry/DbServiceRegistryAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-yiliou-discovery/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-yiliou-starter-discovery/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\LuoZhiKun\.m2\repository" />
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\work\Software\maven\apache-maven-3.6.3\conf\settingsali.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2T8sZwAoIHjruTXTMtQvXJgbegQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-cloud-yiliou-discovery/src/main/resources/META-INF" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\code\yiliou\spring-cloud-yiliou\spring-cloud-yiliou-discovery\src\main\resources\META-INF" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb06a4d5-d0dd-4a24-b282-26a10e39f36b" name="Default Changelist" comment="" />
+      <created>1690436102512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690436102512</updated>
+      <workItem from="1690436103688" duration="5904000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1690436121018">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1690436121018" />
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1690441690307">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1690441690307" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1690436600400">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1690436600400" />
+    <state x="486" y="238" key="Github.ShareDialog" timestamp="1690441847695">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="486" y="238" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1690441847695" />
+    <state x="232" y="37" key="Github.UntrackedFilesDialog" timestamp="1690441861397">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="232" y="37" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1690441861397" />
+    <state width="1237" height="119" key="GridCell.Tab.0.bottom" timestamp="1690441880166">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="119" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1690441880166" />
+    <state width="1237" height="119" key="GridCell.Tab.0.center" timestamp="1690441880166">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="119" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1690441880166" />
+    <state width="1237" height="119" key="GridCell.Tab.0.left" timestamp="1690441880166">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="119" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1690441880166" />
+    <state width="1237" height="119" key="GridCell.Tab.0.right" timestamp="1690441880166">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="119" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1690441880166" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1690436605445">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1690436605445" />
+    <state x="28" y="1" key="new project wizard" timestamp="1690437481331">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="1" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1690437481331" />
+  </component>
+</project>

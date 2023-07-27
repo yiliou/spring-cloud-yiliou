@@ -1,0 +1,4 @@
+# Auto Configuration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.yiliou.cloud.serviceregistry.DbAutoServiceRegistrationAutoConfiguration,\
+com.yiliou.cloud.serviceregistry.DbServiceRegistryAutoConfiguration  

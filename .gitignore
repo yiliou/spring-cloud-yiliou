@@ -1,0 +1,3 @@
+# Project exclude paths
+/spring-cloud-yiliou-discovery/target/
+/spring-cloud-yiliou-starter-discovery/target/
